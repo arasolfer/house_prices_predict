@@ -4,16 +4,16 @@ Se utiliza un dataset con diversas características de casas. A partir de estos 
 
 El dataset se encuentra disponible en Kaggle: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
 
-# Estructura del Proyecto
+## Estructura del Proyecto
 
 * data_description.txt: descripcion de los datos del dataset.
 * houseprices_prediction.ipynb: notebook para el análisis.
 * README.md: Este archivo.
 
-# Instrucciones de instalación 
+## Instrucciones de instalación 
 
 1. Clona el repositorio: git clone https://github.com/arasolfer/house_prices_predict.git
 
-# Uso
+## Uso
 
 * Ejecuta el notebook houseprices_prediction para realizar el análisis y predicción.
